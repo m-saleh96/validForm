@@ -1,0 +1,45 @@
+
+
+#container {
+    width: 50%;
+    margin: 50px auto;
+}
+
+.inputs{
+    font-size: 18px;
+}
+
+.inputs input{
+    width: 50%;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+#gender {
+    display: flex;
+    align-items:first baseline;
+    margin: 20px 0;
+}
+
+#language {
+    margin: 10px 0;
+}
+
+.button{
+    margin-top: 20px;
+    text-align: center;
+    width: 50%;
+}
+button{
+    padding: 5px 30px;
+    background-color: brown;
+    color: white;
+    border: none;
+}
+
+h6{
+    color: red;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
